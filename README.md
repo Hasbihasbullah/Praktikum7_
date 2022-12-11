@@ -47,7 +47,7 @@ public class OperationSystem implements IOperationiSystem {
 }
 
 
-#Aggregataion
+# Aggregataion
 
 public class DeviceAggregationRelation {
     private String brand;
@@ -160,7 +160,7 @@ public class MainDeviceAggregationRelation {
 
 
 
-#Associasion
+# Associasion
 
 
 
@@ -279,7 +279,7 @@ public class MainDeviceAssociationRelation {
 
 
 
-#Composition
+# Composition
 
 public class DeviceCompositionRelation {
     private final String brand;
@@ -360,7 +360,7 @@ public class MainDeviceCompositionRelation {
 
 
 
-#Dependencies
+# Dependencies
 
 public class DeviceDependenciesRelation {
     private String brand;
