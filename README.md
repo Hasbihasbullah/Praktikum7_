@@ -17,6 +17,7 @@ Kelas   : ti.21.c.1
 
 Source code     :
 
+OperationSystem.java
 public interface IOperationiSystem {
     void turnOnDevice();
     void turnOffDevice();
@@ -24,7 +25,7 @@ public interface IOperationiSystem {
 }
 
 
-
+IOperationSystem.java
 public class OperationSystem implements IOperationiSystem {
     public String operationSystem;
     public String OSVersion;
