@@ -153,8 +153,9 @@ public class MainDeviceAggregationRelation {
 
 #output!
 
+![Screenshot (142)](https://user-images.githubusercontent.com/92858927/206915630-81a17c3b-30bc-47dd-a82a-4e88cb1c9cd3.png)
 
-[Screenshot (142)](https://user-images.githubusercontent.com/92858927/206914914-5cf6183b-2fcc-4e3b-bd05-02c7ecdfe1ec.png)
+
 
 
 
