@@ -18,8 +18,9 @@ Kelas   : ti.21.c.1
 
 
 # Source code     :
+# IOperationSystwm.java
 
-OperationSystem.java
+    
 
     public interface IOperationiSystem {
         void turnOnDevice();
@@ -464,7 +465,7 @@ OperationSystem.java
     }
 
 
-#output
+# output
 
 ![Screenshot (145)](https://user-images.githubusercontent.com/92858927/206915119-9d67dd1d-cc3e-456f-8913-379a1bb2bea3.png)
 
