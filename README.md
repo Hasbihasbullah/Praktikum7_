@@ -28,8 +28,9 @@ OperationSystem.java
     }
 
 
-IOperationSystem.java
-    public class OperationSystem implements IOperationiSystem {
+
+    IOperationSystem.java
+        public class OperationSystem implements IOperationiSystem {
         public String operationSystem;
         public String OSVersion;
 
